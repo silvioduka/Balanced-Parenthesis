@@ -21,6 +21,6 @@ For Example:
 
 Also, take into account the "\" escape sequences: 
 
-(nope\) - invalid 
+(nope\\) - invalid 
 
-(v\(al) - valid 
+(v\\(al) - valid 
